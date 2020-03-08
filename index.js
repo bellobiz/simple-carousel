@@ -1,4 +1,5 @@
 let images = [
+  "https://cdn-images-1.medium.com/max/800/1*KG6-nzjAbOQexbcTMOXpCA.jpeg",
   "https://cdn-images-1.medium.com/max/800/1*c3hRnEuoTXLBgUsYViRWkA.jpeg",
   "https://cdn-images-1.medium.com/max/800/1*s1YmgLIBzymaWhJoo1x9BQ.jpeg",
   "https://cdn-images-1.medium.com/max/800/1*ohea0-lSKxfEItLUhyzNSQ.jpeg"
