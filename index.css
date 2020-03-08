@@ -1,6 +1,6 @@
 img {
   width: 200px;
-  height: 100px;
+  height: 150px;
 }
 
 div {
@@ -16,5 +16,11 @@ div {
 
 button {
   margin: 10px;
-  
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #f8f8f8;
+}
+
+button:hover {
+  opacity: 0.7;
 }
